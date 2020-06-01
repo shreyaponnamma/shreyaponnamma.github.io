@@ -4,7 +4,8 @@ title: "MyBlogs"
 description: "An Engineering student blogging about all sort o stuff."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog
+baseurl: /
+url: https://shreyaponnamma.github.io/
 google_analytics: 'UA-xxxxxxxx-1'
 include: ["_pages"]
 permalink: /:title/
