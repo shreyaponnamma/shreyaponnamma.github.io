@@ -15,9 +15,6 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
-</head>
-
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script>
@@ -29,6 +26,9 @@ ga('create', '{{site.google_analytics}}', 'auto');
 ga('send', 'pageview');
 </script>
 {% endif %}
+</head>
+
+
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body>
