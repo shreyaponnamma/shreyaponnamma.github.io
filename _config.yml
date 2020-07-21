@@ -58,7 +58,7 @@ kramdown:
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
+adsense: "disable"
 adsense-data-ad-client: "pub-9980849112900309"
 adsense-data-ad-slot: "1363087678"
 
