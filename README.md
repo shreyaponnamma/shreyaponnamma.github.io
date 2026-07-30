@@ -1,1 +1,0 @@
-# Memoirs Jekyll Theme
